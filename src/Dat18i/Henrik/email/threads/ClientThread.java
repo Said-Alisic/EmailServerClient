@@ -26,6 +26,7 @@ public class ClientThread implements Runnable {
             BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 
             while (!clientSocket.isClosed()) {
+                System.out.println("Running...");
                 String userIn = in.readLine();
                 out.println("User has written: " + userIn);
 
@@ -35,6 +36,7 @@ public class ClientThread implements Runnable {
             ioe.printStackTrace();
             System.err.println("Could not establish connection to server!");
         }
+        System.out.println("Terminating...");
 
     }
 }

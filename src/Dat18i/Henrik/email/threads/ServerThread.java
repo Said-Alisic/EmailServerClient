@@ -33,6 +33,7 @@ public class ServerThread implements Runnable {
             System.out.println("Write 'Disconnect' to terminate connecting.");
 
             while (!clientSocket.isClosed()) {
+                System.out.println("Running...");
                 String input = in.readLine();
                 out.println("Client input: " + input);
 
@@ -45,6 +46,6 @@ public class ServerThread implements Runnable {
             ioe.printStackTrace();
             System.err.println("Could not accept client connection at host: " + host + " - port: " + port);
         }
-
+        System.out.println("Terminating...");
     }
 }

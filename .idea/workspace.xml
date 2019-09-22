@@ -67,7 +67,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EmailClient">
+  <component name="RunManager" selected="Application.EmailServer">
     <configuration name="EmailClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Dat18i.Henrik.email.client.EmailClient" />
       <module name="EmailServer" />
@@ -96,8 +96,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmailClient" />
         <item itemvalue="Application.EmailServer" />
+        <item itemvalue="Application.EmailClient" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +111,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1569162068452</updated>
-      <workItem from="1569162071522" duration="5541000" />
+      <workItem from="1569162071522" duration="6838000" />
     </task>
     <servers />
   </component>
