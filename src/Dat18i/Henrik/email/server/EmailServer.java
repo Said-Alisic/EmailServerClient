@@ -27,10 +27,10 @@ public class EmailServer {
         Thread thread = new Thread(serverThread);
         thread.start();
 
-        // Obtain input and output streams to communicate with client
-        // Input stream of client is connected to output stream of server
-        PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
-        BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
+//        // Obtain input and output streams to communicate with client
+//        // Input stream of client is connected to output stream of server
+//        PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
+//        BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 
 
 

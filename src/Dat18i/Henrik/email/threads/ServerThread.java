@@ -33,11 +33,10 @@ public class ServerThread implements Runnable {
             System.out.println("Write 'Disconnect' to terminate connecting.");
 
             while (!clientSocket.isClosed()) {
-                System.out.println("Running...");
-                String input = in.readLine();
-                out.println("Client input: " + input);
+                System.out.println("Running..." + clientSocket.getRemoteSocketAddress());
+                out.println("Client input: " + in.readLine());
 
-                if(input.equalsIgnoreCase("Disconnect")) {
+                if(in.readLine().equalsIgnoreCase("Disconnect")) {
                     clientSocket.close();
                 }
 
