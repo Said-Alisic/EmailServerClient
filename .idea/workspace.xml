@@ -30,14 +30,7 @@
       <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/SpringCrudTask/src/main/java/spring/task/crud/sa/demo/CarController.java" afterDir="false" />
       <change afterPath="D:/School Projects/Semester two/FinalExamProject/src/main/resources/static/js/test.js" afterDir="false" />
       <change afterPath="D:/School stuff/Computer Science/Projects/Dolphin individual project - Said Alisic/SQLiteJDBCDriverConnection/SQLiteJDBCDriverConnection.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/server/EmailServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/server/EmailServer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ClientThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ClientThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ServerThread.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dat18i/Henrik/email/server/EmailServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dat18i/Henrik/email/server/EmailServer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ClientThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ServerThread.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +51,7 @@
   <component name="ProjectId" id="1RCDE3f5QnYb4OVxaMOzikKmuhZ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -121,7 +115,7 @@
       <updated>1569162068452</updated>
       <workItem from="1569162071522" duration="7010000" />
       <workItem from="1569235325380" duration="4829000" />
-      <workItem from="1569567138662" duration="1026000" />
+      <workItem from="1569567138662" duration="1741000" />
     </task>
     <servers />
   </component>
