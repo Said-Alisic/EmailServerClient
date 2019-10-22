@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec8d21a4-d0cb-4259-aa6b-2803d746adcd" name="Default Changelist" comment="">
+      <change afterPath="D:/Own projects/Software/Testing/untitled/untitled.iml" afterDir="false" />
+      <change afterPath="D:/Own projects/Software/Testing/untitled1/untitled1.iml" afterDir="false" />
       <change afterPath="D:/Python/Projects/copenhack/facematch/.idea/facematch.iml" afterDir="false" />
       <change afterPath="D:/Python/Projects/copenhack/facematch/.idea/misc.xml" afterDir="false" />
       <change afterPath="D:/Python/Projects/copenhack/facematch/.idea/modules.xml" afterDir="false" />
@@ -10,27 +12,56 @@
       <change afterPath="D:/Python/Projects/copenhack/facematch/send_email.py" afterDir="false" />
       <change afterPath="D:/Python/Projects/copenhack/facematch/test.txt" afterDir="false" />
       <change afterPath="D:/Python/Projects/copenhack/facematch/testing.py" afterDir="false" />
+      <change afterPath="D:/Python/Testing/Face_Recognition/.idea/Face_Recognition.iml" afterDir="false" />
       <change afterPath="D:/Python/Testing/FlaskTutorialTwo/.idea/FlaskTutorialTwo.iml" afterDir="false" />
       <change afterPath="D:/Python/Testing/FlaskTutorialTwo/.idea/misc.xml" afterDir="false" />
       <change afterPath="D:/Python/Testing/FlaskTutorialTwo/.idea/modules.xml" afterDir="false" />
       <change afterPath="D:/Python/Testing/FlaskTutorialTwo/.idea/vcs.xml" afterDir="false" />
       <change afterPath="D:/Python/Testing/FlaskTutorialTwo/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../PersonExercise/PersonExercise.iml" afterDir="false" />
+      <change afterPath="D:/Python/Testing/TestOne/.idea/TestOne.iml" afterDir="false" />
+      <change afterPath="D:/SQL folder/SQLite folder/SQLiteJDBCDriverConnection/SQLiteJDBCDriverConnection.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AliceInWonderlandText/AliceInWonderlandText.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CurrencyConverterMVC/CurrencyConverterMVC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../CurrencyConverterMVC/src/SaidAlisic/currencyconverter/henrik/dat18i/task/controllers/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EchoServer/EchoServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EchoServer/src/SaidAlisic/echoserver/swc/henrik/task/server/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Exercises3457Page736/Exercises3457Page736.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GroceryList/GroceryList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SyncTest/SyncTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../helpingMada/helpingMada.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../quoteclient_task/one-liners.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../quoteclient_task/quoteclient_task.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../quoteserver_task/quoteserver_task.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../threads1/src/dat18i/henrik/threads/one/ThreadPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../threads1/threads1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../TestingStuff/TestingStuff.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../MySQL Code/ClassExercises/SQLconnection/SQLconnection.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Projects/FirstYearFinalProject/src/main/java/kea/dat18i/firstyear/finalproject/biotrio/controllers/CustomerController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Projects/FirstYearFinalProject/src/main/java/kea/dat18i/firstyear/finalproject/biotrio/controllers/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Projects/FirstYearFinalProject/src/main/java/kea/dat18i/firstyear/finalproject/biotrio/entities/Admin.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Projects/FirstYearFinalProject/src/main/java/kea/dat18i/firstyear/finalproject/biotrio/entities/Customer.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Projects/FirstYearFinalProject/src/main/java/kea/dat18i/firstyear/finalproject/biotrio/repositories/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Projects/TechAWS_webApp/node_modules/express-handlebars/.idea/express-handlebars.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/ClassExercise11032019/ClassExercise11032019.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/Dat18iSpring/src/main/java/dk/kea/dat18i/spring/one/demo/HomeController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/Dat18iSpring/src/main/java/dk/kea/dat18i/spring/one/demo/OwnerController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/Dat18iSpring/src/main/resources/templates/editowner-page.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/Dat18iSpring/src/main/resources/templates/owners-page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/Exercises/Exercises.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../../../Spring Initializer/ClassExercises/SpringCrudTask/src/main/java/spring/task/crud/sa/demo/CarController.java" afterDir="false" />
       <change afterPath="D:/School Projects/Semester two/FinalExamProject/src/main/resources/static/js/test.js" afterDir="false" />
+      <change afterPath="D:/School stuff/Computer Science/JAVA folder/JAVA coded programs - jGRASP/Chris HipHapOrg code/HipHapOrg-master/HipHapOrg-master/HipHapOrg.iml" afterDir="false" />
       <change afterPath="D:/School stuff/Computer Science/Projects/Dolphin individual project - Said Alisic/SQLiteJDBCDriverConnection/SQLiteJDBCDriverConnection.iml" afterDir="false" />
+      <change afterPath="D:/School stuff/Computer Science/Projects/Dolphin individual project - Said Alisic/TheDolphin/TheDolphin.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/client/EmailClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/client/EmailClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/server/EmailServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/server/EmailServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ClientThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ClientThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ServerThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/EmailServer/Dat18i/Henrik/email/threads/ServerThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dat18i/Henrik/email/client/EmailClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dat18i/Henrik/email/client/EmailClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dat18i/Henrik/email/server/EmailServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dat18i/Henrik/email/server/EmailServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ClientThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ClientThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ServerThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Dat18i/Henrik/email/threads/ServerThread.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +85,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spring_mandatory_tom/spring-petclinic" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -115,7 +147,14 @@
       <updated>1569162068452</updated>
       <workItem from="1569162071522" duration="7010000" />
       <workItem from="1569235325380" duration="4829000" />
-      <workItem from="1569567138662" duration="1741000" />
+      <workItem from="1569567138662" duration="2793000" />
+      <workItem from="1569760349113" duration="1704000" />
+      <workItem from="1569843447718" duration="4315000" />
+      <workItem from="1570281945769" duration="1980000" />
+      <workItem from="1570284684424" duration="7657000" />
+      <workItem from="1570359688349" duration="4904000" />
+      <workItem from="1571730438997" duration="964000" />
+      <workItem from="1571741049538" duration="2195000" />
     </task>
     <servers />
   </component>

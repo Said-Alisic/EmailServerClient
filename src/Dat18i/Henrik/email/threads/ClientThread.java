@@ -29,8 +29,7 @@ public class ClientThread implements Runnable {
 
 
             while (!clientSocket.isClosed()) {
-
-                System.out.println("Running..." + clientSocket.getPort());
+                System.out.println("Running at port - " + clientSocket.getPort());
 
                 String userInput;
                 while ((userInput = stdIn.readLine()) != null) {
@@ -41,10 +40,9 @@ public class ClientThread implements Runnable {
             }
 
         } catch (IOException ioe) {
-            ioe.printStackTrace();
             System.err.println("Could not establish connection to server!");
         }
-        System.out.println("Terminating...");
+        System.out.println("Terminating connection...");
 
     }
 }

@@ -30,21 +30,32 @@ public class ServerThread implements Runnable {
             PrintWriter out = new PrintWriter(clientSocket.getOutputStream(), true);
             BufferedReader in = new BufferedReader(new InputStreamReader(clientSocket.getInputStream()));
 
-            System.out.println("Write 'Disconnect' to terminate connecting.");
-
             while (!clientSocket.isClosed()) {
                 System.out.println("Running..." + clientSocket.getRemoteSocketAddress());
-                out.println("Client input: " + in.readLine());
+
+
+
+                // Prints to client
+                String clientInput;
+                while((clientInput = in.readLine()) != null) {
+                    // Echo client message back to client side
+//                    out.println("EmailServer- Client input: " + clientInput);
+                    out.println("EmailServer: Hello client, this is an automated message.");
+                    System.out.println(clientInput);
+                }
+                // Prints to server
+//                System.out.println(in.readLine());
 
                 if(in.readLine().equalsIgnoreCase("Disconnect")) {
                     clientSocket.close();
+                    System.out.println("Disconnected!");
                 }
 
             }
         } catch (IOException ioe) {
-            ioe.printStackTrace();
             System.err.println("Could not accept client connection at host: " + host + " - port: " + port);
         }
-        System.out.println("Terminating...");
+        System.out.println("Terminating connection...");
+
     }
 }
